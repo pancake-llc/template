@@ -18,8 +18,8 @@
             "m_Values": [
                 "True",
                 "7",
-                "False",
-                "False",
+                "True",
+                "True",
                 "-1",
                 "False",
                 "False"
@@ -29,12 +29,14 @@
             "m_Keys": [
                 "UnityNotificationAndroidRescheduleOnDeviceRestart",
                 "UnityNotificationAndroidUseCustomActivity",
-                "UnityNotificationAndroidCustomActivityString"
+                "UnityNotificationAndroidCustomActivityString",
+                "UnityNotificationAndroidScheduleExactAlarms"
             ],
             "m_Values": [
+                "True",
                 "False",
-                "False",
-                "com.unity3d.player.UnityPlayerActivity"
+                "com.unity3d.player.UnityPlayerActivity",
+                "-1"
             ]
         },
         "DrawableResources": []
