@@ -1,6 +1,5 @@
 # What
 
-Home Pin Remake 2022
 
 # Requirement
 
