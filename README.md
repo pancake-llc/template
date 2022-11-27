@@ -1,6 +1,13 @@
 # What
 
 
-# Requirement
+# Environment
 
-- Unity 2021.3 LTS
+- unity 2021.3 LTS
+- scriptingBackend : IL2CPP
+- apiCompatibilityLevel : .NetFramework
+
+
+# Dependency
+
+- [heart 1.2.0](https://github.com/pancake-llc/heart)
