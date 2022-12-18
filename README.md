@@ -10,4 +10,4 @@
 
 # Dependency
 
-- [heart 1.2.4](https://github.com/pancake-llc/heart)
+- [heart 1.2.8](https://github.com/pancake-llc/heart)
